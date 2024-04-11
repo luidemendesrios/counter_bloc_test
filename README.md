@@ -2,6 +2,9 @@
 
 Esta aplicação usa o conceito do aplicativo padrão do Flutter de incremento e decremento usado o padrão Bloc e o teste de unidade. 
 
+![Captura de tela 2024-04-11 135505](https://github.com/luidemendesrios/counter_bloc_test/assets/66266273/c74dae9c-a0f9-4abc-b80e-1512b929a54b)
+
+
 
 ![Captura de tela 2024-04-10 174935](https://github.com/luidemendesrios/counter_bloc_test/assets/66266273/ed567e30-77cc-49b3-8fff-2469821d8e42)
 
